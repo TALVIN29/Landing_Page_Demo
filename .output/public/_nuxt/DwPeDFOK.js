@@ -1,0 +1,1 @@
+import{d as s,u as t,o as a,c as n,a as o,Y as c}from"./y9DpijQn.js";const r={class:"min-h-screen bg-white"},l={id:"main-content",class:"flex-grow"},m=s({__name:"default",setup(d){return t({htmlAttrs:{lang:"en"}}),(e,i)=>(a(),n("div",r,[o("main",l,[c(e.$slots,"default")])]))}});export{m as default};
