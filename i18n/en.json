@@ -1,14 +1,16 @@
 {
   "companyName": "Packaging Automation",
   "skipToContent": "Skip to content",
-  "home": "Home",
-  "about": "About Us",
-  "services": "Services",
-  "products": "Products",
-  "projects": "Projects",
-  "blog": "Blog",
-  "contact": "Contact",
-  "investors": "Investors",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "products": "Products",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "investors": "Investors"
+  },
   "getQuote": "Get a Quote",
   "openMenu": "Open menu",
   "closeMenu": "Close menu",
@@ -40,6 +42,8 @@
     "backToTop": "Back to top"
   },
   "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions from consultation to support",
     "consultation": "Consultation & Design",
     "manufacturing": "Manufacturing",
     "installation": "Installation & Commissioning",
@@ -93,15 +97,7 @@
     "latest": "Latest Insights",
     "subtitle": "Stay updated with the latest trends and innovations in packaging automation"
   },
-  "services": {
-    "title": "Our Services",
-    "subtitle": "Comprehensive solutions from consultation to support",
-    "consultation": "Consultation & Design",
-    "manufacturing": "Manufacturing",
-    "installation": "Installation & Commissioning",
-    "training": "Training & Support",
-    "maintenance": "Maintenance & Support"
-  },
+
   "cta": {
     "title": "Ready to Automate Your Packaging?",
     "subtitle": "Get in touch with our experts to discuss your automation needs",

@@ -169,13 +169,13 @@ const socialLinks = [
 ]
 
 const quickLinks = [
-  { path: '/about', label: 'about' },
-  { path: '/services', label: 'services' },
-  { path: '/products', label: 'products' },
-  { path: '/projects', label: 'projects' },
-  { path: '/blog', label: 'blog' },
-  { path: '/contact', label: 'contact' },
-  { path: '/investors', label: 'investors' },
+  { path: '/about', label: 'nav.about' },
+  { path: '/services', label: 'nav.services' },
+  { path: '/products', label: 'nav.products' },
+  { path: '/projects', label: 'nav.projects' },
+  { path: '/blog', label: 'nav.blog' },
+  { path: '/contact', label: 'nav.contact' },
+  { path: '/investors', label: 'nav.investors' },
 ]
 
 const serviceLinks = [

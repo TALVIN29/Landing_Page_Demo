@@ -134,13 +134,13 @@ const isScrolled = ref(false)
 const isMobileMenuOpen = ref(false)
 
 const navigationItems = [
-  { path: '/', label: 'home' },
-  { path: '/about', label: 'about' },
-  { path: '/services', label: 'services' },
-  { path: '/products', label: 'products' },
-  { path: '/projects', label: 'projects' },
-  { path: '/blog', label: 'blog' },
-  { path: '/contact', label: 'contact' },
+  { path: '/', label: 'nav.home' },
+  { path: '/about', label: 'nav.about' },
+  { path: '/services', label: 'nav.services' },
+  { path: '/products', label: 'nav.products' },
+  { path: '/projects', label: 'nav.projects' },
+  { path: '/blog', label: 'nav.blog' },
+  { path: '/contact', label: 'nav.contact' },
 ]
 
 // Handle scroll
