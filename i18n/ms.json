@@ -1,0 +1,89 @@
+{
+  "companyName": "Automasi Pembungkusan",
+  "skipToContent": "Langkau ke kandungan",
+  "home": "Laman Utama",
+  "about": "Tentang Kami",
+  "services": "Perkhidmatan",
+  "products": "Produk",
+  "projects": "Projek",
+  "blog": "Blog",
+  "contact": "Hubungi",
+  "investors": "Pelabur",
+  "getQuote": "Dapatkan Sebut Harga",
+  "openMenu": "Buka menu",
+  "closeMenu": "Tutup menu",
+  "selectLanguage": "Pilih bahasa",
+  "common": {
+    "loading": "Memuatkan...",
+    "readMore": "Baca Lagi",
+    "viewAll": "Lihat Semua",
+    "submit": "Hantar",
+    "cancel": "Batal",
+    "send": "Hantar",
+    "learnMore": "Ketahui Lebih Lanjut"
+  },
+  "footer": {
+    "companyDescription": "Penyedia terkemuka penyelesaian automasi pembungkusan untuk peranti perubatan, farmaseutikal, pembuatan sarung tangan, dan industri FMCG di Malaysia dan sekitarnya.",
+    "quickLinks": "Pautan Pantas",
+    "services": "Perkhidmatan",
+    "contact": "Hubungi Kami",
+    "address": "123 Taman Perindustrian, Shah Alam, 40000 Selangor, Malaysia",
+    "phone": "+60 3-1234 5678",
+    "email": "info{'@'}packaging-automation.com",
+    "newsletter": "Surat Berita",
+    "emailPlaceholder": "Masukkan emel anda",
+    "subscribe": "Langgan",
+    "allRightsReserved": "Hak cipta terpelihara.",
+    "privacyPolicy": "Dasar Privasi",
+    "termsOfService": "Terma Perkhidmatan",
+    "sitemap": "Peta Laman",
+    "backToTop": "Kembali ke atas"
+  },
+  "services": {
+    "consultation": "Perundingan & Rekabentuk",
+    "manufacturing": "Pembuatan",
+    "installation": "Pemasangan & Suruhanjaya",
+    "training": "Latihan & Sokongan",
+    "maintenance": "Penyelenggaraan & Sokongan"
+  },
+  "hero": {
+    "headline": "Penyelesaian Automasi Pembungkusan Inovatif",
+    "subheadline": "Ubah talian pengeluaran anda dengan teknologi automasi termaju. Berkhidmat untuk industri perubatan, farmaseutikal, dan pembuatan sejak 1999.",
+    "ctaPrimary": "Teroka Penyelesaian",
+    "ctaSecondary": "Hubungi Kami"
+  },
+  "industries": {
+    "title": "Industri Yang Kami Layani",
+    "subtitle": "Penyelesaian khusus untuk pelbagai sektor",
+    "medical": {
+      "title": "Peranti Perubatan",
+      "description": "Penyelesaian pembungkusan tepat untuk peralatan dan peranti perubatan steril."
+    },
+    "pharma": {
+      "title": "Farmaseutikal",
+      "description": "Sistem pembungkusan yang mematuhi peraturan untuk produk farmaseutikal dan ubat-ubatan."
+    },
+    "glove": {
+      "title": "Pembuatan Sarung Tangan",
+      "description": "Automasi kelajuan tinggi untuk talian pengeluaran dan pembungkusan sarung tangan."
+    },
+    "fmcg": {
+      "title": "FMCG",
+      "description": "Penyelesaian pembungkusan cekap untuk barang pengguna yang bergerak pantas."
+    }
+  },
+  "stats": {
+    "projects": "Projek Diselesaikan",
+    "experience": "Tahun Pengalaman",
+    "countries": "Negara Dilayan",
+    "satisfaction": "Kepuasan Pelanggan"
+  },
+  "testimonials": {
+    "title": "Apa Kata Pelanggan Kami"
+  },
+  "cta": {
+    "title": "Sedia untuk Mengautomasikan Pembungkusan Anda?",
+    "subtitle": "Hubungi pakar kami untuk membincangkan keperluan automasi anda",
+    "button": "Mulakan Hari Ini"
+  }
+}

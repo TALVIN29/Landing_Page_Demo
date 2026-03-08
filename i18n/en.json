@@ -1,0 +1,110 @@
+{
+  "companyName": "Packaging Automation",
+  "skipToContent": "Skip to content",
+  "home": "Home",
+  "about": "About Us",
+  "services": "Services",
+  "products": "Products",
+  "projects": "Projects",
+  "blog": "Blog",
+  "contact": "Contact",
+  "investors": "Investors",
+  "getQuote": "Get a Quote",
+  "openMenu": "Open menu",
+  "closeMenu": "Close menu",
+  "selectLanguage": "Select language",
+  "common": {
+    "loading": "Loading...",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "send": "Send",
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "companyDescription": "Leading provider of packaging automation solutions for medical devices, pharmaceuticals, glove manufacturing, and FMCG industries in Malaysia and beyond.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Us",
+    "address": "123 Industrial Park, Shah Alam, 40000 Selangor, Malaysia",
+    "phone": "+60 3-1234 5678",
+    "email": "info{'@'}packaging-automation.com",
+    "newsletter": "Newsletter",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "sitemap": "Sitemap",
+    "backToTop": "Back to top"
+  },
+  "services": {
+    "consultation": "Consultation & Design",
+    "manufacturing": "Manufacturing",
+    "installation": "Installation & Commissioning",
+    "training": "Training & Support",
+    "maintenance": "Maintenance & Support"
+  },
+  "hero": {
+    "headline": "Innovative Packaging Automation Solutions",
+    "subheadline": "Transform your production line with cutting-edge automation technology. Serving medical, pharmaceutical, and manufacturing industries since 1999.",
+    "ctaPrimary": "Explore Solutions",
+    "ctaSecondary": "Contact Us",
+    "trustedBy": "Trusted by Industry Leaders",
+    "scrollDown": "Scroll to explore"
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "subtitle": "Specialized solutions for diverse sectors",
+    "medical": {
+      "title": "Medical Devices",
+      "description": "Precision packaging solutions for sterile medical equipment and devices."
+    },
+    "pharma": {
+      "title": "Pharmaceuticals",
+      "description": "Compliant packaging systems for pharmaceutical products and medicines."
+    },
+    "glove": {
+      "title": "Glove Manufacturing",
+      "description": "High-speed automation for glove production and packaging lines."
+    },
+    "fmcg": {
+      "title": "FMCG",
+      "description": "Efficient packaging solutions for fast-moving consumer goods."
+    }
+  },
+  "stats": {
+    "projects": "Projects Completed",
+    "experience": "Years Experience",
+    "countries": "Countries Served",
+    "satisfaction": "Client Satisfaction"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "previous": "Previous testimonial",
+    "next": "Next testimonial"
+  },
+  "projects": {
+    "featured": "Featured Projects",
+    "featuredSubtitle": "Discover how we have helped businesses transform their packaging operations"
+  },
+  "blog": {
+    "latest": "Latest Insights",
+    "subtitle": "Stay updated with the latest trends and innovations in packaging automation"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions from consultation to support",
+    "consultation": "Consultation & Design",
+    "manufacturing": "Manufacturing",
+    "installation": "Installation & Commissioning",
+    "training": "Training & Support",
+    "maintenance": "Maintenance & Support"
+  },
+  "cta": {
+    "title": "Ready to Automate Your Packaging?",
+    "subtitle": "Get in touch with our experts to discuss your automation needs",
+    "button": "Get Started Today"
+  }
+}

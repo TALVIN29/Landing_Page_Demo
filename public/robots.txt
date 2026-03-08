@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://packaging-automation.com/sitemap.xml

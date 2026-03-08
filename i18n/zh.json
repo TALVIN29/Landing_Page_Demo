@@ -1,0 +1,89 @@
+{
+  "companyName": "包装自动化",
+  "skipToContent": "跳转到内容",
+  "home": "首页",
+  "about": "关于我们",
+  "services": "服务",
+  "products": "产品",
+  "projects": "项目",
+  "blog": "博客",
+  "contact": "联系我们",
+  "investors": "投资者",
+  "getQuote": "获取报价",
+  "openMenu": "打开菜单",
+  "closeMenu": "关闭菜单",
+  "selectLanguage": "选择语言",
+  "common": {
+    "loading": "加载中...",
+    "readMore": "阅读更多",
+    "viewAll": "查看全部",
+    "submit": "提交",
+    "cancel": "取消",
+    "send": "发送",
+    "learnMore": "了解更多"
+  },
+  "footer": {
+    "companyDescription": "马来西亚及周边地区医疗设备、制药、手套制造和快速消费品行业包装自动化解决方案的领先供应商。",
+    "quickLinks": "快速链接",
+    "services": "服务",
+    "contact": "联系我们",
+    "address": "马来西亚雪兰莪州莎阿南工业园123号，邮编40000",
+    "phone": "+60 3-1234 5678",
+    "email": "info{'@'}packaging-automation.com",
+    "newsletter": "新闻通讯",
+    "emailPlaceholder": "输入您的邮箱",
+    "subscribe": "订阅",
+    "allRightsReserved": "版权所有。",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "sitemap": "网站地图",
+    "backToTop": "返回顶部"
+  },
+  "services": {
+    "consultation": "咨询与设计",
+    "manufacturing": "制造",
+    "installation": "安装与调试",
+    "training": "培训与支持",
+    "maintenance": "维护与支持"
+  },
+  "hero": {
+    "headline": "创新的包装自动化解决方案",
+    "subheadline": "采用尖端自动化技术转变您的生产线。自1999年以来为医疗、制药和制造业提供服务。",
+    "ctaPrimary": "探索解决方案",
+    "ctaSecondary": "联系我们"
+  },
+  "industries": {
+    "title": "我们服务的行业",
+    "subtitle": "为不同行业提供专门解决方案",
+    "medical": {
+      "title": "医疗器械",
+      "description": "为无菌医疗设备和器械提供精密包装解决方案。"
+    },
+    "pharma": {
+      "title": "制药",
+      "description": "符合规定的药品和药物包装系统。"
+    },
+    "glove": {
+      "title": "手套制造",
+      "description": "手套生产和包装线的高速自动化。"
+    },
+    "fmcg": {
+      "title": "快速消费品",
+      "description": "为快速消费品提供高效包装解决方案。"
+    }
+  },
+  "stats": {
+    "projects": "完成项目",
+    "experience": "年经验",
+    "countries": "服务国家",
+    "satisfaction": "客户满意度"
+  },
+  "testimonials": {
+    "title": "客户评价"
+  },
+  "cta": {
+    "title": "准备好自动化您的包装了吗？",
+    "subtitle": "与我们的专家联系，讨论您的自动化需求",
+    "button": "立即开始"
+  }
+}
