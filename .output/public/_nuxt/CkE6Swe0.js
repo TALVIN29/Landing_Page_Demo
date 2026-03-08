@@ -1,1 +1,0 @@
-import{d as n,o,c as s,a as e}from"./y9DpijQn.js";const p=n({__name:"test",setup(a){return(r,t)=>(o(),s("html",null,[...t[0]||(t[0]=[e("body",{style:{background:"white",padding:"20px"}},[e("h1",null,"TEST PAGE"),e("p",null,"If you see this, the routing is working!")],-1)])]))}});export{p as default};
